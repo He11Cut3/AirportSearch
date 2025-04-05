@@ -1,0 +1,15 @@
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\bin\Debug\net8.0\Airport Search.exe
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\bin\Debug\net8.0\Airport Search.deps.json
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\bin\Debug\net8.0\Airport Search.runtimeconfig.json
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\bin\Debug\net8.0\Airport Search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\bin\Debug\net8.0\Airport Search.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.AssemblyInfoInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.AssemblyInfo.cs
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.csproj.CoreCompileInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\refint\Airport Search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\Airport Search.genruntimeconfig.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net8.0\ref\Airport Search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\bin\Debug\net8.0\airports.dat
