@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hU8E4G2Q/O5MVHz8O13QBG68Jc/KRxzic9FgeuZ7HEa8q4/5lvDv2b4TkN7TQLx862lY0nXPm2mg8ImHP23OGw==",
+  "dgSpecHash": "Pa7JPcUcMUP6nRIwomzhlRjXp1a26jfpxo/qMPOhGLe9ByUtbdWG8Fla8Hwyg4vEzkNEGmDjLn9VGFymKIDBOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Airport Search\\Airport Search.csproj",
+  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\AirportSearch\\Airport Search.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kek13\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kek13\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],

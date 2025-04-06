@@ -8,8 +8,8 @@ namespace AirportSearch
         {
             if (args.Length != 1 || !int.TryParse(args[0], out int columnIndex) || columnIndex < 1)
             {
-                Console.WriteLine("Usage: AirportSearch.exe <column_number>");
-                Console.WriteLine("Column number must be a positive integer (1-based index)");
+                Console.WriteLine("Использование: AirportSearch.exe <номер_колонки>");
+                Console.WriteLine("Номер колонки должен быть положительным целым числом (начиная с 1)");
                 return;
             }
 
@@ -17,7 +17,7 @@ namespace AirportSearch
             {
                 var searchEngine = new AirportSearchEngine("airports.dat", columnIndex - 1);
 
-                Console.WriteLine("Enter search text (or 'quit' to exit):");
+                Console.WriteLine("Введите текст для поиска (или 'quit' для выхода):");
                 while (true)
                 {
                     Console.Write("> ");
@@ -28,7 +28,7 @@ namespace AirportSearch
 
                     if (string.IsNullOrEmpty(searchText))
                     {
-                        Console.WriteLine("Please enter search text");
+                        Console.WriteLine("Пожалуйста, введите текст для поиска");
                         continue;
                     }
 
@@ -37,12 +37,12 @@ namespace AirportSearch
                     {
                         Console.WriteLine($"{result.Key}[{result.Line}]");
                     }
-                    Console.WriteLine($"Found {results.Count} matches");
+                    Console.WriteLine($"Найдено совпадений: {results.Count}");
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine($"Ошибка: {ex.Message}");
             }
         }
     }

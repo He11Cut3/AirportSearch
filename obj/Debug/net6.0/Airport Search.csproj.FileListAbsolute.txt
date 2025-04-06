@@ -12,3 +12,18 @@ C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net6.0\
 C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net6.0\airports-search.pdb
 C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net6.0\Airport Search.genruntimeconfig.cache
 C:\Users\kek13\OneDrive\Рабочий стол\Airport Search\obj\Debug\net6.0\ref\airports-search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\bin\Debug\net6.0\airports-search.exe
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\bin\Debug\net6.0\airports-search.deps.json
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\bin\Debug\net6.0\airports-search.runtimeconfig.json
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\bin\Debug\net6.0\airports-search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\bin\Debug\net6.0\airports-search.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\Airport Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\Airport Search.AssemblyInfoInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\Airport Search.AssemblyInfo.cs
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\Airport Search.csproj.CoreCompileInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\Airport Search.sourcelink.json
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\airports-search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\refint\airports-search.dll
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\airports-search.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\Airport Search.genruntimeconfig.cache
+C:\Users\kek13\OneDrive\Рабочий стол\01\Git\TestWork1-3\AirportSearch\obj\Debug\net6.0\ref\airports-search.dll

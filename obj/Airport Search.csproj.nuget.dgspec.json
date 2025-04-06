@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Airport Search\\Airport Search.csproj": {}
+    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\AirportSearch\\Airport Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Airport Search\\Airport Search.csproj": {
+    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\AirportSearch\\Airport Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Airport Search\\Airport Search.csproj",
+        "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\AirportSearch\\Airport Search.csproj",
         "projectName": "airports-search",
-        "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Airport Search\\Airport Search.csproj",
+        "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\AirportSearch\\Airport Search.csproj",
         "packagesPath": "C:\\Users\\kek13\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Airport Search\\obj\\",
+        "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TestWork1-3\\AirportSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kek13\\AppData\\Roaming\\NuGet\\NuGet.Config",
