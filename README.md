@@ -55,13 +55,19 @@ dotnet run --project AirportSearch -- <номер_колонки> [запрос]
 **Примеры** 
 ```powershell
 # Поиск по 2-й колонке (название аэропорта)
-dotnet run --project AirportSearch -- 2 "Наименование аэропорта"
+dotnet run --project AirportSearch -- 2
+Введите текст для поиска (или 'quit' для выхода):
+"название аэропорта"
 
 # Поиск по 5-й колонке (код IATA)
-dotnet run --project AirportSearch -- 5 "код IATA"
+dotnet run --project AirportSearch -- 5
+Введите текст для поиска (или 'quit' для выхода):
+"код IATA"
 
 # Вывод всех записей по 3-й колонке (город)
 dotnet run --project AirportSearch -- 3
+Введите текст для поиска (или 'quit' для выхода):
+"город"
 ```
 
 
